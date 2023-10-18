@@ -2,4 +2,6 @@
 Data exchange between processes with QSharedMemory
 
  This is a small library that allows communication between multiple processes. Based on the QSharedMemory class. 
- Provides control of attached processes and control of delivery to the recipient
+ Provides control of attached processes and control of delivery to the recipient. 
+ This uses the signal/slot system when receiving data
+
