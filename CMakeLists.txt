@@ -1,0 +1,2 @@
+add_subdirectory(sharedio)
+add_subdirectory(demo)
